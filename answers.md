@@ -109,7 +109,12 @@ answer 10
 no
 
 answer 11
-theres an error message
+it updates your message on git hub
 
 answer 12
+yes
 
+answer 13
+Aydens-MacBook-Air:cs2400 aydenherring$ ls -a
+.               .vscode         git-lab         hw
+..              first-project   git-lab-2       labs
